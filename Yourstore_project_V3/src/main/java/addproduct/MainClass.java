@@ -54,7 +54,7 @@ public class MainClass extends LoginDetails {
 		Thread.sleep(5000);
 
 		 AddProduct add_Prod = new AddProduct();
-//		 add_Prod.add();
+		 add_Prod.add();
 		 
 		 AddProductNegativeTC nap = new AddProductNegativeTC();
 		 nap.add();
