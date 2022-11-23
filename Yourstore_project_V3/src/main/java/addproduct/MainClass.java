@@ -57,7 +57,7 @@ public class MainClass extends LoginDetails {
 		 add_Prod.add();
 		 
 		 AddProductNegativeTC nap = new AddProductNegativeTC();
-		 nap.add();
+//		 nap.add();
 	
 //		 AddMultiProduct addMul = new AddMultiProduct();
 //		 addMul.add_MultiProduct();
