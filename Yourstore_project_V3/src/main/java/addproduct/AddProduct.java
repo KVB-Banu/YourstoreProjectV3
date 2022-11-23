@@ -217,6 +217,7 @@ public class AddProduct extends LoginDetails {
 		 Thread.sleep(3000);
 		 
 		 // Click on Addon
+		//learn github
 		 
 		 
 //		 driver.findElement(By.xpath("//span[normalize-space()='Apply Add-Ons']")).click();
